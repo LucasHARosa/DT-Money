@@ -7,6 +7,7 @@ import { TransactionsContext } from "../../contexts/TransactionsContext";
 import { dateFormatter, priceFormatter } from "../../utils/formatter";
 
 
+
 export function Transactions() {
   const { transactions } = useContext(TransactionsContext)
 

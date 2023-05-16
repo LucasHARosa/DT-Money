@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "almoço",
+      "price": 23,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-16T11:57:33.819Z",
+      "id": 4
+    },
+    {
+      "description": "bala",
+      "price": 2,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-05-16T11:58:09.123Z",
+      "id": 5
     }
   ]
 }
