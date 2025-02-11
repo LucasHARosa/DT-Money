@@ -1,8 +1,8 @@
 # DT Money
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/DT_Money)
-![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/DT_Money)
-![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/DT_Money)
-![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/DT_Money)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/DT-Money)
+![GitHub language count](https://img.shields.io/github/languages/count/LucasHARosa/DT-Money)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/DT-Money)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/DT-Money)
 
 # App - DT Money
 
